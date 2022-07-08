@@ -1,0 +1,15 @@
+Order a Pizza
+Decide where to Order
+Call in Order
+    a. Tell Ordertaker what you want on Pizza
+    b. Tell Ordertaker pickup or delivery
+Pay for Pizza
+    a. Pay by credit
+    b. Pay by cash
+    c. Pay when delivered
+If delivered and Paid in advance
+    a. Greet driver at door   
+If delivered and cash payment
+    a. Greet driver at door
+    b. Receive payment from customer
+    c. Give Pizza to customer
